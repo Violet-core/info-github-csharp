@@ -11,7 +11,7 @@ Console.WriteLine("Имя не введено.");
 } 
 else 
 { 
-Console.WriteLine("Привет, " + name + "!"); 
+Console.WriteLine("Здравствуйте, " + name + "!"); 
 } 
 } 
 } 
