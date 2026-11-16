@@ -1,2 +1,2 @@
-# info-github-csharp
+# Мой первый проект на GitHub
 Учебный проект C# для знакомства с GitHub
